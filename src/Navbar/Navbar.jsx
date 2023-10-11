@@ -41,7 +41,7 @@ export default function Navbar() {
         <li className="nav-item">
           <NavLink className={(x)=>x.isActive?'nav-link active':'nav-link'} to="contact">Contact</NavLink>
         </li>
-        
+      
         
       </ul>
       
